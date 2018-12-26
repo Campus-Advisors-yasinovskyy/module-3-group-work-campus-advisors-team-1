@@ -8,6 +8,8 @@
 ## Idea
 
 * Be nice
+* Do no harm
+* Learn Git
 
 ## References
 
